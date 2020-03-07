@@ -1,0 +1,11 @@
+randomValue = Math.round(Math.random() * 1000)
+let maxValue = 0;
+let minValue = 0;
+
+let firstValue = randomValue;
+let secondValue = randomValue;
+let thirdValue = randomValue;
+let fourthValue = randomValue;
+let fifthValue = randomValue;
+
+console.log(firstValue, secondValue, thirdValue, fourthValue. fifthValue)

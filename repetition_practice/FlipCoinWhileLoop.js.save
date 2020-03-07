@@ -1,0 +1,12 @@
+var read = require('readline-syn');
+var choice = read.question('Enter either HEADS or TAILS')
+
+function flipCoin() {
+let randomCheck = Math.random();
+
+if( randomCheck < 0.5)
+	return "HEADS";
+else
+	return "TAILS";
+}
+
