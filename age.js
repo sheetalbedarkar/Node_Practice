@@ -5,3 +5,5 @@ if((age >= 14) && (age < 19)) {
 	status = "Not Eligible";
 }
 console.log(status);
+console.log('Hello');
+
